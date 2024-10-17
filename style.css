@@ -1,0 +1,12 @@
+body{
+    background-image: url(weby.PNG);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+#p4{
+    color: #ff0202;
+}
+h1{
+    color: #0eff26;
+}
